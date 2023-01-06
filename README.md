@@ -1,2 +1,5 @@
 # Spamcallv4.1
-SC punya H20STUDIO
+> pip install pycryptodome
+
+> SC H20 STUDIO
+> IZIN YA OM ^___^
