@@ -1,7 +1,7 @@
 # Spamcallv4.1
-> pip install pycryptodome
+> pip install requests 
 
-> python bot.py
+> sh module.sh
 
 > Token --> https://s.id/TokenSpamcall
 
